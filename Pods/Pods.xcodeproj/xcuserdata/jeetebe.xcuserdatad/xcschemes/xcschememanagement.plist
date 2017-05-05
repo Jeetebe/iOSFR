@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BXSlider.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>PinAuto.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-BXSlider_Example.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-BXSlider_Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>39459434A46E24176B852D42F72A44A4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3D40D3EA3D6D9AF2D9D26F0B59D76663</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>59E2A8FD577C6E6B4E3FED8529E5D8BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AE91076CF83D1B92B974114CD6F09A2F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

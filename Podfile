@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'BXSlider_Example' do
+  pod "BXSlider", :path => "../"
+  pod 'Reveal-iOS-SDK', :configurations => ['Debug']
+end
+
+target 'BXSlider_Tests' do
+  pod "BXSlider", :path => "../"
+
+  
+end
